@@ -1,0 +1,14 @@
+Written in python using mininet
+
+----- Simple Firewall using OpenFlow Contents -----
+
+- controller.py
+  	- POX controller that implements a firewall that allows all 
+          ARP and TCP traffic to pass but drops every other type of 
+          traffic
+
+- topo.py
+	- custom network topology
+
+- README
+	- describes the contents of each file 
