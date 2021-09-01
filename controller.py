@@ -1,6 +1,3 @@
-# Lab 3 Skeleton
-#
-# Based on of_tutorial by James McCauley
 
 from pox.core import core
 import pox.openflow.libopenflow_01 as of
